@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Slayer404
+- 👋 Hi, I’m Sasanka Barman
 - 👀 I’m interested in Cyber security and Ethical Hacking
-- 🌱 I’m currently learning C,C++, Python, Ethical Hacking.
+- 🌱 I’m currently learning C, Python, Ethical Hacking.
 - 📫 How to reach me sasankabarman2016@gmail.com
 
 <!---
